@@ -1,2 +1,2 @@
 # Projeto-JogoDaVelha
-Jogo da velho usando HTML, CSS e JavaScript
+Jogo da velha usando HTML, CSS e JavaScript
